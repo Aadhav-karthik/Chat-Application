@@ -1,0 +1,37 @@
+.message-form{
+    padding:0.18rem;
+    
+}
+
+.text-input{
+    background-color: black;
+    color:aquamarine !important;
+    border:none;
+    
+    border-top-left-radius: 0.5rem ;
+    border-bottom-left-radius: 0.5rem ;
+    
+}
+
+.text-input:focus{
+    border:none !important;
+    background-color:black;
+}
+
+@media only screen and (max-width:768px){
+.fixed-small-bottom{
+position:fixed !important;
+right:0 !important;
+bottom:0;
+left:0;
+}
+}
+
+.send-button{
+    border: none;
+    background-color:rgba(0, 255, 166, 0.459);
+    border-top-right-radius: 0.5rem ;
+    border-bottom-right-radius: 0.5rem ;
+    color:white;
+   
+}

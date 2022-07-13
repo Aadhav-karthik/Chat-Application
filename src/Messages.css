@@ -1,0 +1,23 @@
+.message-container{
+    background-color:rgba(60, 60, 60, 0.329);
+    border-radius:1rem;
+}
+
+
+
+.user{
+    margin-right: auto;
+    font-size: 90%;
+    color:#149414;
+}
+
+.message{
+    color: white;
+    font-size: 100%;
+    overflow-wrap: break-word;
+}
+
+.time{
+    color:#146b94;
+    font-size:60%;
+}

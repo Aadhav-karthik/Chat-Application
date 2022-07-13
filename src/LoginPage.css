@@ -1,0 +1,38 @@
+.submit-button{
+    padding:0.5rem 9.25rem;
+    font-size: 1.2rem;
+    border: none;
+    
+    background-color:#14941480;
+    border-radius: 5px;
+    color:white;
+    
+}
+
+.submit-button:hover{
+    background-color:rgb(29, 156, 111);
+}
+
+.login-input{
+    font-size: 1.2rem;
+    border: 0.1rem solid #14941471;
+    border-radius: 5px;
+    background-color: black;
+    color:#149414;
+}
+
+.login-input:focus{
+    background-color: black;
+    color:#147694;
+}
+
+.form-card{
+    border: 3px solid #1494145a;
+   
+    text-align: center;
+    margin:5rem auto;
+}
+
+.login-form{
+padding:3.5rem 3rem;
+}
